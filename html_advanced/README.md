@@ -1,3 +1,4 @@
+<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1ddf18bc6d89725de2fde4881e8990fae6d89628.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20241203%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20241203T100843Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2586b55a91d4ba6f3ee16e5f8f1075f920c0463c5703e683d072da445913b537">
 # Learning Figma
 
 Hey there! Welcome to my Figma learning guide. I'm excited to help you get started with Figma, an amazing design tool that I absolutely love for creating user interfaces, prototypes, and so much more.
